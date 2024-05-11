@@ -1,0 +1,13 @@
+passagem;relatório
+EABC1324;O paciente se queixa de visão turva e dificuldade para focar. O paciente é portador de diabetes mellitus tipo 2. Consulta de acompanhamento em três meses para reavaliação da condição ocular e ajustes terapêuticos.
+FGHJ5678;Paciente apresenta quadro de dor abdominal intensa, localizada no quadrante inferior direito, acompanhada de náuseas e vômitos. Suspeita de apendicite aguda. Encaminhado para avaliação cirúrgica.
+KLMO9012;Paciente relata queda da própria altura, com trauma em membro superior direito. Radiografia de punho evidencia fratura em rádio distal. Imobilização com gesso axilo-palmar. Retorno em 7 dias para reavaliação.
+QRST3456;Paciente procura atendimento por quadro de tosse produtiva com expectoração amarelada, febre e dor torácica. Ausculta pulmonar com roncos e sibilos. Diagnóstico de pneumonia comunitária. Prescrição de antibiótico e antitérmico. Repouso e hidratação recomendados.
+UVWX7890;Paciente refere cefaleia intensa, pulsátil, unilateral, acompanhada de fotofobia e fonofobia. Diagnóstico de enxaqueca. Medicação analgésica e antiemética prescrita. Orientação para repouso em ambiente escuro e silencioso.
+YZAB2468;Criança com quadro de febre alta, tosse seca e coriza. Exame físico evidencia erupção cutânea maculopapular. Diagnóstico de sarampo. Orientação aos pais sobre cuidados domiciliares e isolamento da criança.
+CDFE4802;Paciente apresenta dor lombar intensa, irradiada para membro inferior esquerdo. Déficit motor em membro inferior esquerdo. Suspeita de hérnia de disco. Encaminhado para avaliação com especialista.
+GHIJ6024;Gestante em trabalho de parto prematuro. Batimentos cardíacos fetais presentes. Administrado medicamento para inibir as contrações uterinas. Paciente internada para acompanhamento.
+KLMN8246;Paciente vítima de acidente automobilístico, apresenta trauma cranioencefálico. Glasgow 13. Realizado tomografia computadorizada de crânio. Paciente internado para observação neurológica.
+OPQR0468;Paciente com quadro de intoxicação exógena por ingestão acidental de medicamento. Lavagem gástrica realizada. Paciente estável, sem alterações neurológicas.
+STUV2690;Idoso com quadro de confusão mental aguda. Desidratado. Realizada hidratação venosa. Paciente internado para investigação diagnóstica.
+WXYZ4912;Paciente relata dor precordial em aperto, irradiada para o braço esquerdo, associada a sudorese fria e náuseas. Eletrocardiograma realizado. Diagnóstico: Infarto agudo do miocárdio. Paciente transferido para Unidade de Terapia Intensiva.
